@@ -391,6 +391,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Related Projects
 
+- **[claude-code-productivity](https://github.com/CarlosFelipeF/claude-code-productivity)** — Personal productivity commands for Claude Code (weekly check-ins, daily journaling, news briefs, brain dump analysis)
 - **[AgenticDevelopment](https://github.com/CarlosFelipeF/AgenticDevelopment)** — Governance framework for AI coding agents
 
 ---
