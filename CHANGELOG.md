@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `/code-review` - Code review command
 - `/generate-tests` - Test generation command
 - `/api-design` - API design command
+- `/refactor` - Systematic refactoring approach
+- `/debug` - Structured debugging workflow
 
 ## [0.1.0] - 2026-01-14
 
